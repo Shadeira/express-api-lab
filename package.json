@@ -1,12 +1,15 @@
 {
   "name": "express-api-lab",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to your first Express.js lab! In this 20-minute hands-on project, you'll work with a partner to build a RESTful API using Express.js and JavaScript. The goal is to understand how to create API endpoints and interact with data using HTTP methods.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
